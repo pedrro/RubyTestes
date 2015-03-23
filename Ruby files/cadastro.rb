@@ -13,4 +13,4 @@ your_information={
 "Endereço" =>address
 }
 
-puts "Seu nome é" + your_information["Nome"] + " e sua idade é" +your_information["Idade"] + " e endereço" + your_information["Endereço"]
+puts "Seu nome é " + your_information["Nome"] + " e sua idade é " +your_information["Idade"] + " e endereço " + your_information["Endereço"]

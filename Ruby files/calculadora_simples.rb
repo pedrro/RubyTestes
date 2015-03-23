@@ -22,6 +22,3 @@ elsif operação ==4
 else
 	puts "operação não encontrada."
 end
-
-
-
